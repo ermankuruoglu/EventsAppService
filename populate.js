@@ -26,5 +26,6 @@ events.map(data => {
   // Initialize a model with event data
   const event = new Event(data);
   // and save it into the database
+  
   event.save();
 });

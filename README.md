@@ -1,3 +1,3 @@
 Starter node.js api application
 
-Application returns evetns as json array.
+Application returns events as json array.
